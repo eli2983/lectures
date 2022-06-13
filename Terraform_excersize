@@ -1,7 +1,7 @@
 
 ver=0.11.7
 wget https://releases.hashicorp.com/terraform/${ver}/terraform_${ver}_linux_amd64.zip
-55
+5555
 unzip terraform_${ver}_linux_amd64.zip
 
 mv terraform /usr/local/bin
