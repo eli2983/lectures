@@ -3,7 +3,7 @@ ver=0.11.7
 wget https://releases.hashicorp.com/terraform/${ver}/terraform_${ver}_linux_amd64.zip
 
 unzip terraform_${ver}_linux_amd64.zip
-tt
+
 mv terraform /usr/local/bin
 
 cat <<EOT >> terraform.tfvars
