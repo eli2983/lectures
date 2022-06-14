@@ -7,6 +7,7 @@
 -	sudo service nexus start (starting the service)
 -	sudo vi /opt/sonatype-work/nexus3/etc/nexus.properties (open the configuration and uncomment the port variable with setting 32000:
 
+ddf
 # Jetty section
 application-port=32000
 # application-host=0.0.0.0
